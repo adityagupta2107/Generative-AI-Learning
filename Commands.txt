@@ -1,0 +1,5 @@
+Create virtual env -> python -m venv venv
+To activate this -> venv\Scripts\Activate.ps1
+
+Package Installation
+->pip install tiktoken   
