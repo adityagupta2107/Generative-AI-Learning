@@ -3,3 +3,5 @@ To activate this -> venv\Scripts\Activate.ps1
 
 Package Installation
 ->pip install tiktoken   
+
+cp Chat_openai3.py Chat_openai3_auto.py
